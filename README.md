@@ -5,11 +5,11 @@ Utility Python app to help organize/control your stable diffusion embedding and 
 ---  
 
 ## Notes
-Very very simple Python GUI app using the QT5 framework
-Base code created with ChatGPT feedback
-Stores folder pairing paths in an INI file
-Not intended to be useful to most people, but trying to use Git more to get used to it
-Tested on Windows 11 and Ubuntu 23.04 virtual machines
+Very very simple Python GUI app using the QT5 framework  
+Base code created with ChatGPT feedback  
+Stores folder pairing paths in an INI file  
+Not intended to be useful to most people, but trying to use Git more to get used to it  
+Tested on Windows 11 and Ubuntu 23.04 virtual machines  
 
 ---  
 
